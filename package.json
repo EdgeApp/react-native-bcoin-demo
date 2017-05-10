@@ -10,7 +10,6 @@
   "dependencies": {
     "assert": "^1.4.1",
     "asyncstorage-down": "^3.1.1",
-    "bcoin": "git+https://github.com/Airbitz/bcoin.git#reactNative",
     "browserify-zlib": "^0.1.4",
     "buffer": "^3.6.0",
     "console-browserify": "^1.1.0",
