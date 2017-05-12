@@ -30,7 +30,7 @@
     "react-native-level": "^3.0.0",
     "react-native-level-fs": "^3.0.0",
     "react-native-randombytes": "^2.2.0",
-    "react-native-tcp": "^2.0.4",
+    "react-native-tcp": "^3.2.1",
     "react-native-udp": "^1.2.9",
     "readable-stream": "^1.0.33",
     "stream": "0.0.2",
