@@ -126,6 +126,7 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-fs')
     compile project(':react-native-randombytes')
     compile project(':react-native-tcp')
     compile fileTree(dir: "libs", include: ["*.jar"])
